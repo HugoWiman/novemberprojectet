@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace novemberprojectet
 {
-    class Program
+    class card1
     {
-        static void Main(string[] args)
-        {
-            //kortspel. med hjälp av instanser 
-        }
     }
 }
