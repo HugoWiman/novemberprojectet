@@ -11,6 +11,8 @@ namespace novemberprojectet
         static void Main(string[] args)
         {
             //kortspel. med hjälp av instanser 
+            Console.WriteLine("how many cards you want ");
+
         }
     }
 }
